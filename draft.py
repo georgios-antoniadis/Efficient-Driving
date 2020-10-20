@@ -36,3 +36,5 @@ while fuelEnergy > 0:
     positions.append(i)
 
 print(max(positions))
+
+#This is a message for my future self
